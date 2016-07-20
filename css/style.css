@@ -6,9 +6,13 @@
  * Made By MaterializeCSS.com
  */
 
+
+
 nav ul a,
+
 nav .brand-logo {
   color: #444;
+  font-family: 'Oleo script';
 }
 
 p {
@@ -25,6 +29,7 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
+
   .parallax-container .section {
     width: 100%;
   }
@@ -54,4 +59,16 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.white{
+  margin-top:10px;
+}
+
+.log{
+  margin-top: -15px;
+}
+
+.header{
+  margin: auto auto;
 }
